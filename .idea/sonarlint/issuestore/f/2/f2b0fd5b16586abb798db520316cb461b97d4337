@@ -1,0 +1,12 @@
+
+S
+java:S1854"6Remove this useless assignment to local variable "is".(Γ8²«―Λ1
+X
+java:S1854"6Remove this useless assignment to local variable "bs".(‘±†–ώÿÿÿÿ8³«―Λ1
+I
+java:S1481"'Remove this unused "bs" local variable.(‘±†–ώÿÿÿÿ8½«―Λ1
+X	java:S125"<This block of commented-out lines of code should be removed.(ΌήΏΝ8Ύ«―Λ1
+D
+java:S1481"'Remove this unused "is" local variable.(Γ8Ύ«―Λ1
+]	java:S125"<This block of commented-out lines of code should be removed.(πεϊÿÿÿÿ8Ύ«―Λ1
+G	java:S106"+Replace this use of System.out by a logger.(©εθή8Ώ«―Λ1
