@@ -1,12 +1,17 @@
 
+V
+java:S1854"9Remove this useless assignment to local variable "merge".(Û‰å¯8‚ ‚ÆÌ1
 S
-java:S1854"6Remove this useless assignment to local variable "is".(šˆÃ8²«¯œË1
+java:S1854"6Remove this useless assignment to local variable "is".(šˆÃ8ƒ ‚ÆÌ1
 X
-java:S1854"6Remove this useless assignment to local variable "bs".(‘±†–şÿÿÿÿ8³«¯œË1
+java:S1854"6Remove this useless assignment to local variable "bs".(‘±†–şÿÿÿÿ8ƒ ‚ÆÌ1
 I
-java:S1481"'Remove this unused "bs" local variable.(‘±†–şÿÿÿÿ8½«¯œË1
-X	java:S125"<This block of commented-out lines of code should be removed.(¼Ş¿Í8¾«¯œË1
+java:S1481"'Remove this unused "bs" local variable.(‘±†–şÿÿÿÿ8ˆ ‚ÆÌ1
+X	java:S125"<This block of commented-out lines of code should be removed.(¼Ş¿Í8ˆ ‚ÆÌ1
 D
-java:S1481"'Remove this unused "is" local variable.(šˆÃ8¾«¯œË1
-]	java:S125"<This block of commented-out lines of code should be removed.(ğ˜åúÿÿÿÿ8¾«¯œË1
-G	java:S106"+Replace this use of System.out by a logger.(©åèŞ8¿«¯œË1
+java:S1481"'Remove this unused "is" local variable.(šˆÃ8 ‚ÆÌ1
+]	java:S125"<This block of commented-out lines of code should be removed.(ğ˜åúÿÿÿÿ8 ‚ÆÌ1
+G
+java:S1481"*Remove this unused "merge" local variable.(Û‰å¯8 ‚ÆÌ1
+]	java:S125"<This block of commented-out lines of code should be removed.(È¨Èùÿÿÿÿ8 ‚ÆÌ1
+L	java:S106"+Replace this use of System.out by a logger.(–ß…üÿÿÿÿ8 ‚ÆÌ1

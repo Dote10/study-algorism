@@ -21,7 +21,9 @@ public class SortMain {
         //System.out.println(Arrays.toString(is.insertionSort(arr)));
 
         MergeSort merge = new MergeSort();
-        System.out.println(Arrays.toString(merge.mergeSort(arr,0,n-1)));
+        //System.out.println(Arrays.toString(merge.mergeSort(arr,0,n-1)));
 
+        QuickSort qs = new QuickSort();
+        System.out.println(Arrays.toString(qs.quickSort(arr,0,n-1)));
     }
 }
